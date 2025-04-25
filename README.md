@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff)](https://www.linkedin.com/in/sunith-appasani/)
+
 <!--
 **Sunith12/sunith12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
