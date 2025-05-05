@@ -57,51 +57,51 @@ As a dedicated computer science professional, I specialize in developing innovat
 
 <div align="center">
 
-<!-- Languages, OS, and Platforms -->
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1798c1?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+[![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Apex-1798c1?style=flat&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-<!-- Tools & DevOps -->
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AgentForce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat&logo=azure-devops&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTest-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Project-217346?style=flat&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Flows-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Process%20Builder-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Workbench-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Change%20Sets-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white" />
+[![](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure/cognitive-services/openai/)
+[![](https://img.shields.io/badge/AgentForce-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.agentforce.com/)
+[![](https://img.shields.io/badge/Azure%20Boards-0078D4?style=flat&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/services/devops/boards/)
+[![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![](https://img.shields.io/badge/PyTest-3776AB?style=flat&logo=python&logoColor=white)](https://docs.pytest.org/)
+[![](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![](https://img.shields.io/badge/Microsoft%20Project-217346?style=flat&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365/project)
+[![](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 
-<!-- Infra & Monitoring -->
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+[![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/Flows-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.flow_guide.meta/flow_guide/flows_overview.htm)
+[![](https://img.shields.io/badge/Process%20Builder-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://help.salesforce.com/s/articleView?id=sf.process_overview.htm)
+[![](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://developer.salesforce.com/tools/sfdxcli)
+[![](https://img.shields.io/badge/Workbench-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://workbench.developerforce.com/)
+[![](https://img.shields.io/badge/Change%20Sets-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://help.salesforce.com/s/articleView?id=changesets.htm)
+
+[![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
+[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/SQL-336791?style=flat&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+[![](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=aws&logoColor=white)](https://aws.amazon.com/cloudformation/)
+[![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 
 </div>
+
 
 
 
